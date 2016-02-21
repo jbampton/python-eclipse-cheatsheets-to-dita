@@ -1,5 +1,5 @@
 # python-eclipse-cheatsheets-to-dita
-The motivation for this project come from my mate Phil, who loves his [Python](https://www.python.org)...he was talking up [Java](https://www.oracle.com/java/index.html) over [Ruby](https://www.ruby-lang.org/en/) - a programmer's best friend - and I forgot to mention to Phil something that is even better than Java and Ruby combined is [JRuby](http://jruby.org).
+The motivation for this project come from my mate Phil, who loves his [Python](https://www.python.org)...he even was talking up [Java](https://www.oracle.com/java/index.html) over [Ruby](https://www.ruby-lang.org/en/) - a programmer's best friend - and I forgot to mention to Phil something that is even better than Java and Ruby combined is [JRuby](http://jruby.org).
 
 This projects originates from a Java based Project, [Debrief](http://debrief.info/) where I helped build an [Apache Ant](http://ant.apache.org) based publishing pipeline inside [Eclipse](http://ant.apache.org).
 
