@@ -3,9 +3,12 @@ The motivation for this project come from my mate Phil, who loves his [Python](h
 
 So Hey Phil Himself if you're still listening, I am going to assemble a small tutorial on Python so we can both learn Python togethor.
 
-So before you rage on again about how Java is better than Python why don't you try a short beginner level course on Python:
+So before you rage on again about how Java is better than Python why don't you try some short courses on Python:
 
-[Codecademy Python](https://www.codecademy.com/learn/python)
+  - https://www.codeschool.com/courses/try-python
+  - https://www.codecademy.com/learn/python
+  - https://developers.google.com/edu/python/
+  - http://www.learnpython.org
 
 Then when you finish come along and train in the [REAL DOJO](http://www.codewars.com)
 
@@ -19,7 +22,14 @@ I was developing this project with IntelliJ IDEA with the Python Community Editi
 
 The feature set of the Python plugin corresponds to PyCharm IDE Community Edition and it provides smart editing for Python scripts.
 
-##List of cool Python Tech
+##List of  Python
+
+Creator of Python - Guido van Rossum
+  - https://en.wikipedia.org/wiki/Guido_van_Rossum
+  - https://twitter.com/gvanrossum
+  - https://www.linkedin.com/in/guido-van-rossum-4a0756
+  - http://stackoverflow.com/users/818274/guido-van-rossum
+
 
 lxml - XML and HTML in Python - http://lxml.de/index.html
 
