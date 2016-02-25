@@ -3,14 +3,19 @@ The motivation for this project come from my mate Phil, who loves his [Python](h
 
 So Hey Phil Himself if you're still listening, I am going to assemble a small tutorial on Python so we can both learn Python togethor.
 
-So before you rage on again about how Java is better than Python why don't you try some short courses on Python:
+So lets first both read the [Python Success Stories](https://www.python.org/about/success/).
+
+So before you rage on again about how Java is better than Python why don't you try some short courses on Python and technology in general:
 
   - https://www.codeschool.com/courses/try-python
   - https://www.codecademy.com/learn/python
   - https://developers.google.com/edu/python/
   - http://www.learnpython.org
+  - https://www.codecademy.com/learn/learn-the-command-line
+  - https://www.codeschool.com/courses/try-git
+  - https://www.codecademy.com/learn/learn-git
 
-Then when you finish come along and train in the [REAL DOJO](http://www.codewars.com)
+Then when you finish come along and train in the [REAL DOJO](http://www.codewars.com) and reach your highest potential, become faster, stronger and more powerful......JEDI MASTER LEVEL.....!??!?!!  
 
 So Phil now that you are Pythonic, and I'm a Pythonista, lets work it out....I mean Python Jedi Master has a nice ring to it on my resume.....!?!???!? 
 
@@ -18,9 +23,9 @@ This projects originates from a Java based Project, [Debrief](http://debrief.inf
 
 This project will hopefully transform [Eclipse cheat sheets](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Freference%2Fref-cheatsheets.htm) to DITA with [Python](https://www.python.org).
 
-I was developing this project with IntelliJ IDEA with the Python Community Edition plugin.
+I was developing this project with [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Python Community Edition plugin.
 
-The feature set of the Python plugin corresponds to PyCharm IDE Community Edition and it provides smart editing for Python scripts.
+The feature set of the Python plugin corresponds to [PyCharm](https://www.jetbrains.com/pycharm/) IDE Community Edition and it provides smart editing for Python scripts.
 
 ##List of  Python
 
