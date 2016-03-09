@@ -43,3 +43,7 @@ Python Lambda functions - http://www.secnetix.de/olli/Python/lambda_functions.ha
 PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pycharm/
 
 IntelliJ IDEA - The most Intelligent Java IDE - https://www.jetbrains.com/idea/
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
+
+https://python-packaging-user-guide.readthedocs.org/en/latest/current/
