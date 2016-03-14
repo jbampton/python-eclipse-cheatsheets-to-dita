@@ -15,7 +15,7 @@ So before you rage on again about how Java is better than Python why don't you t
   - https://www.codeschool.com/courses/try-git
   - https://www.codecademy.com/learn/learn-git
 
-Then when you finish come along and train in the [REAL DOJO](http://www.codewars.com) and reach your highest potential, become faster, stronger and more powerful......JEDI MASTER LEVEL.....!??!?!!  
+Then when you finish come along and train in the [REAL DOJO](http://www.codewars.com) and reach your highest potential, become **faster**, **stronger** and **more powerful**......**JEDI MASTER LEVEL**.....**!??!?!!**  
 
 So Phil now that you are Pythonic, and I'm a Pythonista, lets work it out....I mean Python Jedi Master has a nice ring to it on my resume.....!?!???!? 
 
