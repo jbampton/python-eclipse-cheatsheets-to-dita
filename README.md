@@ -1,4 +1,5 @@
-# python-eclipse-cheatsheets-to-dita
+# Python Eclipse cheatsheets to DITA
+
 The motivation for this project come from my mate Phil, who loves his [Python](https://www.python.org)...he even was talking up [Java](https://www.oracle.com/java/index.html) over [Ruby](https://www.ruby-lang.org/en/) - a programmer's best friend - and I forgot to mention to Phil something that is even better than Java and Ruby combined is [JRuby](http://jruby.org).
 
 So Hey Phil Himself if you're still listening, I am going to assemble a small tutorial on Python so we can both learn Python togethor.
@@ -27,7 +28,7 @@ I was developing this project with [IntelliJ IDEA](https://www.jetbrains.com/ide
 
 The feature set of the Python plugin corresponds to [PyCharm](https://www.jetbrains.com/pycharm/) IDE Community Edition and it provides smart editing for Python scripts.
 
-##List of  Python
+#List of  Python
 
 Creator of Python - Guido van Rossum
   - https://en.wikipedia.org/wiki/Guido_van_Rossum
@@ -40,9 +41,15 @@ lxml - XML and HTML in Python - http://lxml.de/index.html
 
 Python Lambda functions - http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
+##Python IDE
+
 PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pycharm/
 
 IntelliJ IDEA - The most Intelligent Java IDE - https://www.jetbrains.com/idea/
+
+Komodo IDE - One IDE, All Your Languages - http://komodoide.com/
+
+##Installing Python
 
 http://docs.python-guide.org/en/latest/starting/install/osx/
 
