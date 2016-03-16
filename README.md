@@ -20,7 +20,7 @@ Then when you finish come along and train in the [REAL DOJO](http://www.codewars
 
 So Phil now that you are Pythonic, and I'm a Pythonista, lets work it out....I mean Python Jedi Master has a nice ring to it on my resume.....!?!???!? 
 
-This projects originates from a Java based Project, [Debrief](http://debrief.info/) where I helped build an [Apache Ant](http://ant.apache.org) based publishing pipeline inside [Eclipse](http://ant.apache.org).
+This projects originates from a Java based Project, [Debrief](http://debrief.info/) where I helped build an [Apache Ant](http://ant.apache.org) based publishing pipeline inside [Eclipse](https://eclipse.org).
 
 This project will hopefully transform [Eclipse cheat sheets](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Freference%2Fref-cheatsheets.htm) to DITA with [Python](https://www.python.org).
 
@@ -48,6 +48,8 @@ PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pyc
 IntelliJ IDEA - The most Intelligent Java IDE - https://www.jetbrains.com/idea/
 
 Komodo IDE - One IDE, All Your Languages - http://komodoide.com/
+
+PyDev - Python IDE for Eclipse - https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
 
 ##Installing Python
 
