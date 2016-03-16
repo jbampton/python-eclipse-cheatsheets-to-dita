@@ -3,7 +3,7 @@ The motivation for this project come from my mate Phil, who loves his [Python](h
 
 So Hey Phil Himself if you're still listening, I am going to assemble a small tutorial on Python so we can both learn Python togethor.
 
-So lets first both read the [Python Success Stories](https://www.python.org/about/success/).
+So now that [Python is 5th](http://www.tiobe.com/tiobe_index) on the TIOBE Index, lets first both read the [Python Success Stories](https://www.python.org/about/success/).
 
 So before you rage on again about how Java is better than Python why don't you try some short courses on Python and technology in general:
 
