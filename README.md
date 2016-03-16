@@ -20,6 +20,10 @@ Then when you finish come along and train in the [REAL DOJO](http://www.codewars
 
 So Phil now that you are Pythonic, and I'm a Pythonista, lets work it out....I mean Python Jedi Master has a nice ring to it on my resume.....!?!???!? 
 
+So lets watch a quick warm up video - [Python in 5 seconds...](https://www.youtube.com/watch?v=Zho2tzWmtZ4) which demostrates running the command:
+
+#####python -h
+
 This projects originates from a Java based Project, [Debrief](http://debrief.info/) where I helped build an [Apache Ant](http://ant.apache.org) based publishing pipeline inside [Eclipse](https://eclipse.org).
 
 This project will hopefully transform [Eclipse cheat sheets](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Freference%2Fref-cheatsheets.htm) to DITA with [Python](https://www.python.org).
