@@ -43,6 +43,8 @@ Creator of Python - Guido van Rossum
 
 lxml - XML and HTML in Python - http://lxml.de/index.html
 
+List comprehensions - http://www.secnetix.de/olli/Python/list_comprehensions.hawk
+
 Python Lambda functions - http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
 ##Python IDE
