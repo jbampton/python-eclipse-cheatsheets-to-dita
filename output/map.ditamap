@@ -1,0 +1,19 @@
+<map>
+    <title>Debrief Python Eclipse cheat sheets to DITA</title>
+    <topicmeta>
+        <searchtitle>Eclipse cheat sheets to PDF</searchtitle>
+        <shortdesc>Document Publishing Adventures with Python</shortdesc>
+        <author>Debrief</author>
+        <author>John Bampton</author>
+        <source>http://debrief.info/</source>
+        <publisher>Github John Bampton</publisher>
+        <critdates>
+            <created date="s" />
+        </critdates>
+        <audience experiencelevel="expert" job="troubleshooting" type="programmer" />
+        <category>Java</category>
+        <category>Document Publishing</category>
+        <othermeta content="DITA" name="Publishing" />
+    </topicmeta>
+
+</map>
