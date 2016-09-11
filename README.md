@@ -47,6 +47,8 @@ List comprehensions - http://www.secnetix.de/olli/Python/list_comprehensions.haw
 
 Python Lambda functions - http://www.secnetix.de/olli/Python/lambda_functions.hawk
 
+Python 3.5 built in functions - https://docs.python.org/3.5/library/functions.html
+
 ##Python IDE
 
 PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pycharm/
