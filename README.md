@@ -53,6 +53,8 @@ PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pyc
 
 IntelliJ IDEA - The most Intelligent Java IDE - https://www.jetbrains.com/idea/
 
+Komodo Edit - The free and Open-Source counterpart of Komodo IDE - http://komodoide.com/komodo-edit/
+
 Komodo IDE - One IDE, All Your Languages - http://komodoide.com/
 
 PyDev - Python IDE for Eclipse - https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
