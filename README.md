@@ -1,6 +1,6 @@
 # Python Eclipse cheatsheets to DITA
 
-The motivation for this project come from my mate Phil, who loves his [Python](https://www.python.org)...he even was talking up [Java](https://www.oracle.com/java/index.html) over [Ruby](https://www.ruby-lang.org/en/) - a programmer's best friend - and I forgot to mention to Phil something that is even better than Java and Ruby combined is [JRuby](http://jruby.org).
+The motivation for this project comes from my mate Phil, who loves his [Python](https://www.python.org)...he even was talking up [Java](https://www.oracle.com/java/index.html) over [Ruby](https://www.ruby-lang.org/en/) - a programmer's best friend - and I forgot to mention to Phil something that is even better than Java and Ruby combined is [JRuby](http://jruby.org).
 
 So Hey Phil Himself if you're still listening, I am going to assemble a small tutorial on Python so we can both learn Python togethor.
 
