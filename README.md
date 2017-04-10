@@ -22,7 +22,7 @@ So Phil now that you are Pythonic, and I'm a Pythonista, lets work it out....I m
 
 So lets watch a quick warm up video - [Python in 5 seconds...](https://www.youtube.com/watch?v=Zho2tzWmtZ4) which demostrates running the command:
 
-#####python -h
+#### python -h
 
 This projects originates from a Java based Project, [Debrief](http://debrief.info/) where I helped build an [Apache Ant](http://ant.apache.org) based publishing pipeline inside [Eclipse](https://eclipse.org).
 
@@ -32,7 +32,7 @@ I was developing this project with [IntelliJ IDEA](https://www.jetbrains.com/ide
 
 The feature set of the Python plugin corresponds to [PyCharm](https://www.jetbrains.com/pycharm/) IDE Community Edition and it provides smart editing for Python scripts.
 
-#List of  Python
+## List of  Python
 
 Creator of Python - Guido van Rossum
   - https://en.wikipedia.org/wiki/Guido_van_Rossum
@@ -49,7 +49,7 @@ Python Lambda functions - http://www.secnetix.de/olli/Python/lambda_functions.ha
 
 Python 3.5 built in functions - https://docs.python.org/3.5/library/functions.html
 
-##Python IDE
+## Python IDE
 
 PyCharm - Python IDE for Professional Developers - https://www.jetbrains.com/pycharm/
 
@@ -61,7 +61,7 @@ Komodo IDE - One IDE, All Your Languages - http://komodoide.com/
 
 PyDev - Python IDE for Eclipse - https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
 
-##Installing Python
+## Installing Python
 
 http://docs.python-guide.org/en/latest/starting/install/osx/
 
